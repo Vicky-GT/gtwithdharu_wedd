@@ -569,3 +569,16 @@ footer h2{
     color: #3a3a3a;
   }
   
+  .stay-item h3 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.stay-number {
+    font-size: 1.2rem;
+    color: var(--accent-color, #b5838d);
+    font-weight: bold;
+}
